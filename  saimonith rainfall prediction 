@@ -53,11 +53,11 @@
         "drive.mount('/content/drive')"
       ],
       "metadata": {
-        "id": "VZJRVn-irAfA",
-        "outputId": "1ed41127-31b0-4778-da06-5f6925e29a6b",
         "colab": {
           "base_uri": "https://localhost:8080/"
-        }
+        },
+        "id": "VZJRVn-irAfA",
+        "outputId": "1ed41127-31b0-4778-da06-5f6925e29a6b"
       },
       "execution_count": 48,
       "outputs": [
@@ -1633,12 +1633,12 @@
         "interface.launch()"
       ],
       "metadata": {
-        "id": "Juf1ZcFytEES",
-        "outputId": "628bb62c-5e16-45e5-94e5-ed1ab8b4dfd1",
         "colab": {
           "base_uri": "https://localhost:8080/",
           "height": 646
-        }
+        },
+        "id": "Juf1ZcFytEES",
+        "outputId": "628bb62c-5e16-45e5-94e5-ed1ab8b4dfd1"
       },
       "execution_count": 77,
       "outputs": [
